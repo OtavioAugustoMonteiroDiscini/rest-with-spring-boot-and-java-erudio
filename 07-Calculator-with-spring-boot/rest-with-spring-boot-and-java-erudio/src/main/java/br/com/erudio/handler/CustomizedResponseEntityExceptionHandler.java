@@ -1,4 +1,4 @@
-package br.com.erudio.exception.handler;
+package br.com.erudio.handler;
 import java.util.Date;
 
 import br.com.erudio.exception.ExceptionResponse;
