@@ -1,4 +1,4 @@
-INSERT INTO `person` VALUES (1,'São Paulo','Ayrton','male','Sena'),
+INSERT INTO `person` (`id`, `address`, `first_name`, `gender`, `last_name`) VALUES (1,'São Paulo','Ayrton','male','Sena'),
 (2,'Ourinhos - São Paulo - Brasil ','Otávio Augusto','Male','Monteiro Discini'),
 (6,'São Paulo - SP','Juan','male','Marini'),
 (7,'Rio de Janeiro - RJ','Juan','male','Marini Prisma'),

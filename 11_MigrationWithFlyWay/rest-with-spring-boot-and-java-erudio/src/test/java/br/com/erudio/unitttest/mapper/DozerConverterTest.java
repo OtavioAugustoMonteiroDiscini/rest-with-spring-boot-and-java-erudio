@@ -4,13 +4,14 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.util.List;
 
+import br.com.erudio.mapper.mocks.MockPerson;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import br.com.erudio.data.vo.v1.PersonVO;
 import br.com.erudio.mapper.DozerMapper;
 import br.com.erudio.model.Person;
-import br.com.erudio.unitttest.mapper.mocks.MockPerson;
+
 
 public class DozerConverterTest {
     
