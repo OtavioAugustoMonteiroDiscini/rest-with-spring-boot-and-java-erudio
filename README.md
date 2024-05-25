@@ -97,8 +97,8 @@ To run a Spring Boot project, use the following command:
 ### Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: [](otavio2005discini@gmail.com)
-GitHub: [](https://github.com/OtavioAugustoMonteiroDiscini)
+Email: [here](otavio2005discini@gmail.com)
+GitHub: [here](https://github.com/OtavioAugustoMonteiroDiscini)
 Thank you for visiting the Spring Boot Projects Repository! We hope you find these projects useful in your journey to mastering Spring Boot.
 
 
